@@ -44,7 +44,7 @@ So even if the query is *“marathon sneakers”*, ChromaDB can match with **Nik
 ---
 
 
-## What algo runs behind Vetor Database
+## What Algo runs behind Vetor Database (there are many distance search algorithms - Cosine Similarity is just one of them)
 
 ### Cosine Similarity: The Matchmaker 
 
